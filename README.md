@@ -21,10 +21,8 @@ A modern, responsive Portfolio Website built using **HTML5, CSS3, and JavaScript
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript 
 - CSS Grid
-- Flexbox
-- Media Queries
 
 ## 📂 Project Structure
 
