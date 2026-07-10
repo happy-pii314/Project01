@@ -61,7 +61,7 @@ The objective of this project is to create a fully responsive and user-friendly 
 
 ## 👨‍💻 Author
 
-**Alpesh Tapaniya**
+**A T**
 
 GitHub: https://github.com/happy-pii314
 
